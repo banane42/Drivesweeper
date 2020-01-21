@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Tile
+  - Bullet
+  - Building
+  - Resource
+  - ShopMenu
+  - Bullet Mine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2198867353
+    locked: 0
+  - name: resource
+    uniqueID: 2498666791
+    locked: 0
+  - name: bullet
+    uniqueID: 2136464425
+    locked: 0
+  - name: player
+    uniqueID: 2615544249
+    locked: 0
+  - name: building
+    uniqueID: 884173431
+    locked: 0
+  - name: air
+    uniqueID: 3451798533
+    locked: 0
